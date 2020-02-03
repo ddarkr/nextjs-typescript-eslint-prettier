@@ -1,0 +1,8 @@
+{
+  "prettier.packageManager": "yarn",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "eslint.packageManager": "yarn",
+  "eslint.alwaysShowStatus": true
+}
