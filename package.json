@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.ts,.jsx,.tsx --ignore-path .gitignore ."
   },
   "dependencies": {
-    "next": "9.3.1",
+    "next": "9.3.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
